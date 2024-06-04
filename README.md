@@ -1,5 +1,4 @@
-[![Build Status](https://travis-ci.org/thearn/solar_energy_calculator.svg?branch=master)](https://travis-ci.org/thearn/solar_energy_calculator)
-Solar energy budget calculator
+Solar Energy Budget Calculator
 ===============================
 
 <center>
